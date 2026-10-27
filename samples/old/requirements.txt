@@ -1,0 +1,3 @@
+# deliberately old versions, for trying --online
+requests==2.19.0
+left-pad==1.3.0

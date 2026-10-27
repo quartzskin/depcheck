@@ -1,0 +1,5 @@
+out/
+*.jar
+*.class
+.depcheck-cache/
+_scratch/
